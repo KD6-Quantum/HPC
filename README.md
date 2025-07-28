@@ -3,7 +3,7 @@
 
 ### Este é um projeto open-source com o objetivo de criar uma rede privada de comunicação, baseando em principios, tecnicas e práticas das redes I2P e Tor. 
 
-## Versao 0.0.2
+## Versao 0.0.0
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 
 ### A ideia é criar um sistema somente de envio e recebimento de mensagens, voltado inteiramente para a comunicação privada, a maneira abordada é uma prototipação de um sistema P2P, usando um servidor central de registros de nós, para que ocorra a comunicação dos mesmos.
